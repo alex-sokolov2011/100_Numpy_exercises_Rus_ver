@@ -1,0 +1,1 @@
+# 100_Numpy_exercises_Rus_ver
