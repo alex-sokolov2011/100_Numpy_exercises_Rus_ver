@@ -13,4 +13,4 @@
 
 Желаю плодотворного изучения библиотеки numpy в Python! [смотреть jupyter notebook](https://github.com/alex-sokolov2011/100_Numpy_exercises_Rus_ver/blob/main/100_Numpy_exercises_Rus_ver.ipynb)  
 
-Если у вас есть примеры хороших и полезных заданий по numpy, пишите мне [sokaa2011@gmail.com](mailto:sokaa2011@gmail.com) - с удовольствием опубликую тут или добавляйте сами в collaboration.
+Если у вас есть примеры хороших и полезных заданий по numpy, пишите мне [sokaa2011@gmail.com](mailto:sokaa2011@gmail.com) - с удовольствием опубликую тут или добавляйте сами в contribution.
