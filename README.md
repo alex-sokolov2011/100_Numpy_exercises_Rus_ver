@@ -11,8 +11,8 @@
 - новичкам, у которых есть сложности с английским и которым важно понимать условие задания перед тем как его делать
 - тем кто уже уверенно постигает pandas и начал понимать, что иногда оптимальнее запрогать на numpy  
 
-Желаю плодотворного изучения библиотеки numpy в Python! [смотреть jupyter notebook](https://github.com/alex-sokolov2011/100_Numpy_exercises_Rus_ver/blob/main/100_Numpy_exercises_Rus_ver.ipynb)  
+Желаю плодотворного изучения библиотеки numpy в Python! [смотреть jupyter notebook тут](https://github.com/alex-sokolov2011/100_Numpy_exercises_Rus_ver/blob/main/100_Numpy_exercises_Rus_ver.ipynb). Для тренировок с кодом есть [версия на kaggle](https://www.kaggle.com/code/sokolovaleks/100-numpy-exercises-rus-version)  
 
 Если у вас есть примеры хороших и полезных заданий по numpy, пишите мне [sokaa2011@gmail.com](mailto:sokaa2011@gmail.com) - с удовольствием опубликую тут или добавляйте сами в contribution.
 
-Оригинал на англиском тут https://github.com/rougier/numpy-100
+Оригинал на английском тут https://github.com/rougier/numpy-100
