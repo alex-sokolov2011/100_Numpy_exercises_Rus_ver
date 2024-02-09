@@ -1,0 +1,3 @@
+virt_env_numpy/
+.vscode/
+rebuild_docker.sh
